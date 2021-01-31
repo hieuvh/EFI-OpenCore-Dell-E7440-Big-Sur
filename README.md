@@ -13,6 +13,7 @@
 * [Download Olarila Vanilla Images](https://www.olarila.com/topic/6278-olarila-vanilla-images/)
 * [Dortania Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)
 * [Anmeeno guide - Clover](https://github.com/ameeno/Dell-E7440-Hackintosh#os)
+* [Unlock CFG: Fix Stuckboot](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html)
 ## Worked
 * Power management
 * Brightness Control
