@@ -8,6 +8,7 @@
 * SSD 256 Samsung 860 Evo
 * USB Wifi TPLink W725N
 * USB Lan 3.0 - [Buy](https://www.lazada.vn/products/usb-30-10100mbps-gigabit-ethernet-rj45-rj-45-external-network-card-lan-adapter-adaptator-cable-cord-i851784130-s2393336362.html?mp=1&spm=spm%3Da2o4n.order_details.item_title.1)
+* CFG Lock var: 0xC8B
 ## Guide and Download
 * Download the repository as a Zip file and extract and copy EFI folder to your EFI partition replace the EFI Folder.
 * [Download Olarila Vanilla Images](https://www.olarila.com/topic/6278-olarila-vanilla-images/)
