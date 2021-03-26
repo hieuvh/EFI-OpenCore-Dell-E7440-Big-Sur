@@ -15,6 +15,7 @@
 * [Dortania Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)
 * [Anmeeno guide - Clover](https://github.com/ameeno/Dell-E7440-Hackintosh#os)
 * [Unlock CFG: Fix Stuckboot](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html)
+* [BIOS Tools and Guide](https://github.com/JimLee1996/Hackintosh_OptiPlex_9020)
 ## Worked
 * Power management
 * Brightness Control
